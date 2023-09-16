@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kabirmd1
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Blockchain Development (NITDA TRAINING/SCHOLARSHIPS)
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in Data Analytics | Web Development
+- 🌱 I’m currently learning Data Analytics Essentials
+- 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me @ kabirsalehmd@gmail.com or via WhatsApp 07039629379
 
 <!---
